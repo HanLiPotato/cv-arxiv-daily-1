@@ -742,6 +742,7 @@
 
 ## SR
 
+- 2022-10-21, **Boomerang: Local sampling on image manifolds using diffusion models**, Lorenzo Luzi et.al., Paper: [http://arxiv.org/abs/2210.12100v1](http://arxiv.org/abs/2210.12100v1)
 - 2022-10-20, **Reversed Image Signal Processing and RAW Reconstruction. AIM 2022 Challenge Report**, Marcos V. Conde et.al., Paper: [http://arxiv.org/abs/2210.11153v1](http://arxiv.org/abs/2210.11153v1), Code: **[https://github.com/mv-lab/AISP](https://github.com/mv-lab/AISP)**
 - 2022-10-20, **Super-Resolution and Image Re-projection for Iris Recognition**, Eduardo Ribeiro et.al., Paper: [http://arxiv.org/abs/2210.11129v1](http://arxiv.org/abs/2210.11129v1)
 - 2022-10-20, **Single Image Super-Resolution Using Lightweight Networks Based on Swin Transformer**, Bolong Zhang et.al., Paper: [http://arxiv.org/abs/2210.11019v1](http://arxiv.org/abs/2210.11019v1)
