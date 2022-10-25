@@ -742,6 +742,14 @@
 
 ## SR
 
+- 2022-10-24, **Decimated Prony's Method for Stable Super-resolution**, Rami Katz et.al., Paper: [http://arxiv.org/abs/2210.13329v1](http://arxiv.org/abs/2210.13329v1)
+- 2022-10-24, **Iris super-resolution using CNNs: is photo-realism important to iris recognition?**, Eduardo Ribeiro et.al., Paper: [http://arxiv.org/abs/2210.13125v1](http://arxiv.org/abs/2210.13125v1)
+- 2022-10-24, **High-Resolution Image Editing via Multi-Stage Blended Diffusion**, Johannes Ackermann et.al., Paper: [http://arxiv.org/abs/2210.12965v1](http://arxiv.org/abs/2210.12965v1)
+- 2022-10-24, **Super-resolution simulation of the Fuzzy Dark Matter cosmological model**, Meris Sipp et.al., Paper: [http://arxiv.org/abs/2210.12907v1](http://arxiv.org/abs/2210.12907v1)
+- 2022-10-23, **Single Image Super-Resolution via a Dual Interactive Implicit Neural Network**, Quan H. Nguyen et.al., Paper: [http://arxiv.org/abs/2210.12593v1](http://arxiv.org/abs/2210.12593v1), Code: **[https://github.com/robotic-vision-lab/dual-interactive-implicit-neural-network](https://github.com/robotic-vision-lab/dual-interactive-implicit-neural-network)**
+- 2022-10-22, **Efficient Hair Style Transfer with Generative Adversarial Networks**, Muhammed Pektas et.al., Paper: [http://arxiv.org/abs/2210.12524v1](http://arxiv.org/abs/2210.12524v1)
+- 2022-10-22, **How Real is Real: Evaluating the Robustness of Real-World Super Resolution**, Athiya Deviyani et.al., Paper: [http://arxiv.org/abs/2210.12523v1](http://arxiv.org/abs/2210.12523v1)
+- 2022-10-22, **Neural Sound Field Decomposition with Super-resolution of Sound Direction**, Qiuqiang Kong et.al., Paper: [http://arxiv.org/abs/2210.12345v1](http://arxiv.org/abs/2210.12345v1)
 - 2022-10-21, **Boomerang: Local sampling on image manifolds using diffusion models**, Lorenzo Luzi et.al., Paper: [http://arxiv.org/abs/2210.12100v1](http://arxiv.org/abs/2210.12100v1)
 - 2022-10-20, **Reversed Image Signal Processing and RAW Reconstruction. AIM 2022 Challenge Report**, Marcos V. Conde et.al., Paper: [http://arxiv.org/abs/2210.11153v1](http://arxiv.org/abs/2210.11153v1), Code: **[https://github.com/mv-lab/AISP](https://github.com/mv-lab/AISP)**
 - 2022-10-20, **Super-Resolution and Image Re-projection for Iris Recognition**, Eduardo Ribeiro et.al., Paper: [http://arxiv.org/abs/2210.11129v1](http://arxiv.org/abs/2210.11129v1)
