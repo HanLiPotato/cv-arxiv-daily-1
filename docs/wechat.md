@@ -742,6 +742,7 @@
 
 ## SR
 
+- 2022-10-26, **Super-Resolution Based Patch-Free 3D Medical Image Segmentation with Self-Supervised Guidance**, Hongyi Wang et.al., Paper: [http://arxiv.org/abs/2210.14645v1](http://arxiv.org/abs/2210.14645v1)
 - 2022-10-24, **Perceptual Image Enhancement for Smartphone Real-Time Applications**, Marcos V. Conde et.al., Paper: [http://arxiv.org/abs/2210.13552v1](http://arxiv.org/abs/2210.13552v1)
 - 2022-10-24, **Decimated Prony's Method for Stable Super-resolution**, Rami Katz et.al., Paper: [http://arxiv.org/abs/2210.13329v1](http://arxiv.org/abs/2210.13329v1)
 - 2022-10-24, **Iris super-resolution using CNNs: is photo-realism important to iris recognition?**, Eduardo Ribeiro et.al., Paper: [http://arxiv.org/abs/2210.13125v1](http://arxiv.org/abs/2210.13125v1)
@@ -767,6 +768,8 @@
 
 ## Image Hiding
 
+- 2022-10-24, **Perfectly Secure Steganography Using Minimum Entropy Coupling**, Christian Schroeder de Witt et.al., Paper: [http://arxiv.org/abs/2210.14889v1](http://arxiv.org/abs/2210.14889v1), Code: **[https://github.com/schroederdewitt/perfectly-secure-steganography](https://github.com/schroederdewitt/perfectly-secure-steganography)**
+- 2022-10-26, **Cover Reproducible Steganography via Deep Generative Models**, Kejiang Chen et.al., Paper: [http://arxiv.org/abs/2210.14632v1](http://arxiv.org/abs/2210.14632v1)
 - 2022-09-26, **FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs**, Shehzeen Hussain et.al., Paper: [http://arxiv.org/abs/2209.12391v1](http://arxiv.org/abs/2209.12391v1)
 - 2022-09-19, **Adaptive 3D Mesh Steganography Based on Feature-Preserving Distortion**, Yushu Zhang et.al., Paper: [http://arxiv.org/abs/2209.08884v1](http://arxiv.org/abs/2209.08884v1)
 - 2022-09-05, **Investigation on Principles for Cost Assignment in Motion Vector-based Video Steganography**, Jun Li et.al., Paper: [http://arxiv.org/abs/2209.01744v1](http://arxiv.org/abs/2209.01744v1)
