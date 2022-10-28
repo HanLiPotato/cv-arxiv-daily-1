@@ -742,6 +742,8 @@
 
 ## SR
 
+- 2022-10-27, **Generalized Matrix-Pencil Approach to Estimation of Complex Exponentials with Gapped Data**, Jianping Wang et.al., Paper: [http://arxiv.org/abs/2210.15270v1](http://arxiv.org/abs/2210.15270v1)
+- 2022-10-26, **Three more Decades in Array Signal Processing Research: An Optimization and Structure Exploitation Perspective**, Marius Pesavento et.al., Paper: [http://arxiv.org/abs/2210.15012v1](http://arxiv.org/abs/2210.15012v1)
 - 2022-10-26, **Super-Resolution Based Patch-Free 3D Medical Image Segmentation with Self-Supervised Guidance**, Hongyi Wang et.al., Paper: [http://arxiv.org/abs/2210.14645v1](http://arxiv.org/abs/2210.14645v1)
 - 2022-10-24, **Perceptual Image Enhancement for Smartphone Real-Time Applications**, Marcos V. Conde et.al., Paper: [http://arxiv.org/abs/2210.13552v1](http://arxiv.org/abs/2210.13552v1)
 - 2022-10-24, **Decimated Prony's Method for Stable Super-resolution**, Rami Katz et.al., Paper: [http://arxiv.org/abs/2210.13329v1](http://arxiv.org/abs/2210.13329v1)
