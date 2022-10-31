@@ -857,6 +857,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-28**|**Applying Physics-Informed Enhanced Super-Resolution Generative Adversarial Networks to Turbulent Non-Premixed Combustion on Non-Uniform Meshes and Demonstration of an Accelerated Simulation Workflow**|Mathis Bode et.al.|[2210.16248v1](http://arxiv.org/abs/2210.16248v1)|null|
+|**2022-10-28**|**Applying Physics-Informed Enhanced Super-Resolution Generative Adversarial Networks to Finite-Rate-Chemistry Flows and Predicting Lean Premixed Gas Turbine Combustors**|Mathis Bode et.al.|[2210.16219v1](http://arxiv.org/abs/2210.16219v1)|null|
+|**2022-10-28**|**Applying Physics-Informed Enhanced Super-Resolution Generative Adversarial Networks to Turbulent Premixed Combustion and Engine-like Flame Kernel Direct Numerical Simulation Data**|Mathis Bode et.al.|[2210.16206v1](http://arxiv.org/abs/2210.16206v1)|null|
+|**2022-10-28**|**Multilevel fista for image restoration**|Guillaume Lauga et.al.|[2210.15940v1](http://arxiv.org/abs/2210.15940v1)|null|
+|**2022-10-28**|**Nonparallel High-Quality Audio Super Resolution with Domain Adaptation and Resampling CycleGANs**|Reo Yoneyama et.al.|[2210.15887v1](http://arxiv.org/abs/2210.15887v1)|null|
+|**2022-10-27**|**Conditioning and Sampling in Variational Diffusion Models for Speech Super-resolution**|Chin-Yun Yu et.al.|[2210.15793v1](http://arxiv.org/abs/2210.15793v1)|null|
 |**2022-10-27**|**Generalized Matrix-Pencil Approach to Estimation of Complex Exponentials with Gapped Data**|Jianping Wang et.al.|[2210.15270v1](http://arxiv.org/abs/2210.15270v1)|null|
 |**2022-10-26**|**Three more Decades in Array Signal Processing Research: An Optimization and Structure Exploitation Perspective**|Marius Pesavento et.al.|[2210.15012v1](http://arxiv.org/abs/2210.15012v1)|null|
 |**2022-10-26**|**Super-Resolution Based Patch-Free 3D Medical Image Segmentation with Self-Supervised Guidance**|Hongyi Wang et.al.|[2210.14645v1](http://arxiv.org/abs/2210.14645v1)|null|
