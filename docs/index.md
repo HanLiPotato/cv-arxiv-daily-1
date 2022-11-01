@@ -857,6 +857,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-10-31**|**Physics-Informed CNNs for Super-Resolution of Sparse Observations on Dynamical Systems**|Daniel Kelshaw et.al.|[2210.17319v1](http://arxiv.org/abs/2210.17319v1)|null|
+|**2022-10-30**|**Combining Attention Module and Pixel Shuffle for License Plate Super-Resolution**|Valfride Nascimento et.al.|[2210.16836v1](http://arxiv.org/abs/2210.16836v1)|null|
+|**2022-10-29**|**Data-Driven Computational Imaging for Scientific Discovery**|Andrew Olsen et.al.|[2210.16709v1](http://arxiv.org/abs/2210.16709v1)|null|
 |**2022-10-28**|**Applying Physics-Informed Enhanced Super-Resolution Generative Adversarial Networks to Turbulent Non-Premixed Combustion on Non-Uniform Meshes and Demonstration of an Accelerated Simulation Workflow**|Mathis Bode et.al.|[2210.16248v1](http://arxiv.org/abs/2210.16248v1)|null|
 |**2022-10-28**|**Applying Physics-Informed Enhanced Super-Resolution Generative Adversarial Networks to Finite-Rate-Chemistry Flows and Predicting Lean Premixed Gas Turbine Combustors**|Mathis Bode et.al.|[2210.16219v1](http://arxiv.org/abs/2210.16219v1)|null|
 |**2022-10-28**|**Applying Physics-Informed Enhanced Super-Resolution Generative Adversarial Networks to Turbulent Premixed Combustion and Engine-like Flame Kernel Direct Numerical Simulation Data**|Mathis Bode et.al.|[2210.16206v1](http://arxiv.org/abs/2210.16206v1)|null|
