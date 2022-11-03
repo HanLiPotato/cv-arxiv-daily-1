@@ -857,6 +857,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-01**|**BUbble Flow Field: a Simulation Framework for Evaluating Ultrasound Localization Microscopy Algorithms**|Marcelo Lerendegui et.al.|[2211.00754v1](http://arxiv.org/abs/2211.00754v1)|null|
+|**2022-11-01**|**VIINTER: View Interpolation with Implicit Neural Representations of Images**|Brandon Yushan Feng et.al.|[2211.00722v1](http://arxiv.org/abs/2211.00722v1)|null|
 |**2022-11-01**|**MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model**|Junde Wu et.al.|[2211.00611v1](http://arxiv.org/abs/2211.00611v1)|null|
 |**2022-11-01**|**Fine-tuned Generative Adversarial Network-based Model for Medical Images Super-Resolution**|Alireza Aghelan et.al.|[2211.00577v1](http://arxiv.org/abs/2211.00577v1)|null|
 |**2022-11-01**|**TITAN: Bringing The Deep Image Prior to Implicit Representations**|Daniel LeJeune et.al.|[2211.00219v1](http://arxiv.org/abs/2211.00219v1)|null|
