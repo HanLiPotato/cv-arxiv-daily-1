@@ -853,6 +853,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-03**|**HyperSound: Generating Implicit Neural Representations of Audio Signals with Hypernetworks**|Filip Szatkowski et.al.|[2211.01839v1](http://arxiv.org/abs/2211.01839v1)|null|
+|**2022-11-03**|**Temporal Consistency Learning of inter-frames for Video Super-Resolution**|Meiqin Liu et.al.|[2211.01639v1](http://arxiv.org/abs/2211.01639v1)|null|
 |**2022-11-01**|**BUbble Flow Field: a Simulation Framework for Evaluating Ultrasound Localization Microscopy Algorithms**|Marcelo Lerendegui et.al.|[2211.00754v1](http://arxiv.org/abs/2211.00754v1)|null|
 |**2022-11-01**|**VIINTER: View Interpolation with Implicit Neural Representations of Images**|Brandon Yushan Feng et.al.|[2211.00722v1](http://arxiv.org/abs/2211.00722v1)|null|
 |**2022-11-01**|**MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model**|Junde Wu et.al.|[2211.00611v1](http://arxiv.org/abs/2211.00611v1)|null|
