@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.11.03
+> Updated on 2022.11.04
 
 <details>
   <summary>Table of Contents</summary>
@@ -261,7 +261,7 @@
 - 2021-12-25, **Edge Robotics: Edge-Computing-Accelerated Multi-Robot Simultaneous Localization and Mapping**, Peng Huang et.al., Paper: [http://arxiv.org/abs/2112.13222v1](http://arxiv.org/abs/2112.13222v1)
 - 2021-12-24, **3D Point Cloud Reconstruction and SLAM as an Input**, Ziyu Li et.al., Paper: [http://arxiv.org/abs/2112.12907v1](http://arxiv.org/abs/2112.12907v1)
 
-<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
 ## SFM
 
@@ -317,7 +317,7 @@
 - 2021-12-10, **MegBA: A High-Performance and Distributed Library for Large-Scale Bundle Adjustment**, Jie Ren et.al., Paper: [http://arxiv.org/abs/2112.01349v2](http://arxiv.org/abs/2112.01349v2), Code: **[https://github.com/megviirobot/megba](https://github.com/megviirobot/megba)**
 - 2021-11-11, **Multi-Resolution Elevation Mapping and Safe Landing Site Detection with Applications to Planetary Rotorcraft**, Pascal Schoppmann et.al., Paper: [http://arxiv.org/abs/2111.06271v1](http://arxiv.org/abs/2111.06271v1)
 
-<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -524,7 +524,7 @@
 - 2021-09-20, **Efficient shape mapping through dense touch and vision**, Sudharshan Suresh et.al., Paper: [http://arxiv.org/abs/2109.09884v1](http://arxiv.org/abs/2109.09884v1)
 - 2021-09-15, **S3LAM: Structured Scene SLAM**, Mathieu Gonzalez et.al., Paper: [http://arxiv.org/abs/2109.07339v1](http://arxiv.org/abs/2109.07339v1)
 
-<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -594,7 +594,7 @@
 - 2021-12-19, **GPU optimization of the 3D Scale-invariant Feature Transform Algorithm and a Novel BRIEF-inspired 3D Fast Descriptor**, Jean-Baptiste Carluer et.al., Paper: [http://arxiv.org/abs/2112.10258v1](http://arxiv.org/abs/2112.10258v1), Code: **[https://github.com/carluerjb/3d_sift_cuda](https://github.com/carluerjb/3d_sift_cuda)**
 - 2021-12-16, **Masked Feature Prediction for Self-Supervised Visual Pre-Training**, Chen Wei et.al., Paper: [http://arxiv.org/abs/2112.09133v1](http://arxiv.org/abs/2112.09133v1)
 
-<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
 ## Image Matching
 
@@ -665,7 +665,7 @@
 - 2021-11-29, **Zero-Shot Image-to-Text Generation for Visual-Semantic Arithmetic**, Yoad Tewel et.al., Paper: [http://arxiv.org/abs/2111.14447v1](http://arxiv.org/abs/2111.14447v1), Code: **[https://github.com/yoadtew/zero-shot-image-to-text](https://github.com/yoadtew/zero-shot-image-to-text)**
 - 2021-11-29, **Heterogeneous Visible-Thermal and Visible-Infrared Face Recognition using Unit-Class Loss and Cross-Modality Discriminator**, Usman Cheema et.al., Paper: [http://arxiv.org/abs/2111.14339v1](http://arxiv.org/abs/2111.14339v1)
 
-<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
 ## NeRF
 
@@ -738,14 +738,14 @@
 - 2022-07-29, **Neural Density-Distance Fields**, Itsuki Ueda et.al., Paper: [http://arxiv.org/abs/2207.14455v1](http://arxiv.org/abs/2207.14455v1), Code: **[https://github.com/ueda0319/neddf](https://github.com/ueda0319/neddf)**
 - 2022-07-27, **Is Attention All NeRF Needs?**, Mukund Varma T et.al., Paper: [http://arxiv.org/abs/2207.13298v1](http://arxiv.org/abs/2207.13298v1)
 
-<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
 ## SR
 
 - 2022-11-01, **BUbble Flow Field: a Simulation Framework for Evaluating Ultrasound Localization Microscopy Algorithms**, Marcelo Lerendegui et.al., Paper: [http://arxiv.org/abs/2211.00754v1](http://arxiv.org/abs/2211.00754v1)
 - 2022-11-01, **VIINTER: View Interpolation with Implicit Neural Representations of Images**, Brandon Yushan Feng et.al., Paper: [http://arxiv.org/abs/2211.00722v1](http://arxiv.org/abs/2211.00722v1)
 - 2022-11-01, **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model**, Junde Wu et.al., Paper: [http://arxiv.org/abs/2211.00611v1](http://arxiv.org/abs/2211.00611v1)
-- 2022-11-01, **Fine-tuned Generative Adversarial Network-based Model for Medical Images Super-Resolution**, Alireza Aghelan et.al., Paper: [http://arxiv.org/abs/2211.00577v1](http://arxiv.org/abs/2211.00577v1)
+- 2022-11-03, **Fine-tuned Generative Adversarial Network-based Model for Medical Images Super-Resolution**, Alireza Aghelan et.al., Paper: [http://arxiv.org/abs/2211.00577v2](http://arxiv.org/abs/2211.00577v2)
 - 2022-11-01, **TITAN: Bringing The Deep Image Prior to Implicit Representations**, Daniel LeJeune et.al., Paper: [http://arxiv.org/abs/2211.00219v1](http://arxiv.org/abs/2211.00219v1)
 - 2022-10-31, **Physics-Informed CNNs for Super-Resolution of Sparse Observations on Dynamical Systems**, Daniel Kelshaw et.al., Paper: [http://arxiv.org/abs/2210.17319v1](http://arxiv.org/abs/2210.17319v1)
 - 2022-10-30, **Combining Attention Module and Pixel Shuffle for License Plate Super-Resolution**, Valfride Nascimento et.al., Paper: [http://arxiv.org/abs/2210.16836v1](http://arxiv.org/abs/2210.16836v1), Code: **[https://github.com/valfride/lpr-rsr](https://github.com/valfride/lpr-rsr)**
@@ -780,7 +780,7 @@
 - 2022-10-17, **ITSRN++: Stronger and Better Implicit Transformer Network for Continuous Screen Content Image Super-Resolution**, Sheng Shen et.al., Paper: [http://arxiv.org/abs/2210.08812v1](http://arxiv.org/abs/2210.08812v1)
 - 2022-10-18, **Scale-Agnostic Super-Resolution in MRI using Feature-Based Coordinate Networks**, Dave Van Veen et.al., Paper: [http://arxiv.org/abs/2210.08676v2](http://arxiv.org/abs/2210.08676v2)
 
-<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
 ## Image Hiding
 
@@ -797,7 +797,7 @@
 - 2022-06-29, **Matryoshka: Stealing Functionality of Private ML Data by Hiding Models in Model**, Xudong Pan et.al., Paper: [http://arxiv.org/abs/2206.14371v1](http://arxiv.org/abs/2206.14371v1)
 - 2022-05-25, **Deniable Steganography**, Yong Xu et.al., Paper: [http://arxiv.org/abs/2205.12587v1](http://arxiv.org/abs/2205.12587v1)
 
-<p align=right>(<a href=#Updated-on-20221103>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
