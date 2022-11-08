@@ -860,7 +860,7 @@
 |**2022-11-01**|**MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model**|Junde Wu et.al.|[2211.00611v1](http://arxiv.org/abs/2211.00611v1)|null|
 |**2022-11-03**|**Fine-tuned Generative Adversarial Network-based Model for Medical Images Super-Resolution**|Alireza Aghelan et.al.|[2211.00577v2](http://arxiv.org/abs/2211.00577v2)|null|
 |**2022-11-01**|**TITAN: Bringing The Deep Image Prior to Implicit Representations**|Daniel LeJeune et.al.|[2211.00219v1](http://arxiv.org/abs/2211.00219v1)|null|
-|**2022-10-31**|**Physics-Informed CNNs for Super-Resolution of Sparse Observations on Dynamical Systems**|Daniel Kelshaw et.al.|[2210.17319v1](http://arxiv.org/abs/2210.17319v1)|null|
+|**2022-11-07**|**Physics-Informed CNNs for Super-Resolution of Sparse Observations on Dynamical Systems**|Daniel Kelshaw et.al.|[2210.17319v2](http://arxiv.org/abs/2210.17319v2)|null|
 |**2022-10-30**|**Combining Attention Module and Pixel Shuffle for License Plate Super-Resolution**|Valfride Nascimento et.al.|[2210.16836v1](http://arxiv.org/abs/2210.16836v1)|**[link](https://github.com/valfride/lpr-rsr)**|
 |**2022-10-29**|**Data-Driven Computational Imaging for Scientific Discovery**|Andrew Olsen et.al.|[2210.16709v1](http://arxiv.org/abs/2210.16709v1)|**[link](https://github.com/vganapati/led_pvae)**|
 |**2022-10-28**|**Applying Physics-Informed Enhanced Super-Resolution Generative Adversarial Networks to Turbulent Non-Premixed Combustion on Non-Uniform Meshes and Demonstration of an Accelerated Simulation Workflow**|Mathis Bode et.al.|[2210.16248v1](http://arxiv.org/abs/2210.16248v1)|null|
