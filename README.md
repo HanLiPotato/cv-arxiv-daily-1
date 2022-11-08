@@ -853,6 +853,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-07**|**Underwater Images Super-Resolution Using Generative Adversarial Network-based Model**|Alireza Aghelan et.al.|[2211.03550v1](http://arxiv.org/abs/2211.03550v1)|null|
+|**2022-11-06**|**Measurement-Consistent Networks via a Deep Implicit Layer for Solving Inverse Problems**|Rahul Mourya et.al.|[2211.03177v1](http://arxiv.org/abs/2211.03177v1)|null|
+|**2022-11-05**|**Mixture-Net: Low-Rank Deep Image Prior Inspired by Mixture Models for Spectral Image Recovery**|Tatiana Gelvez-Barrera et.al.|[2211.02973v1](http://arxiv.org/abs/2211.02973v1)|null|
+|**2022-11-05**|**A Survey of Deep Face Restoration: Denoise, Super-Resolution, Deblur, Artifact Removal**|Tao Wang et.al.|[2211.02831v1](http://arxiv.org/abs/2211.02831v1)|**[link](https://github.com/taowangzj/awesome-face-restoration)**|
 |**2022-11-03**|**HyperSound: Generating Implicit Neural Representations of Audio Signals with Hypernetworks**|Filip Szatkowski et.al.|[2211.01839v1](http://arxiv.org/abs/2211.01839v1)|null|
 |**2022-11-03**|**Temporal Consistency Learning of inter-frames for Video Super-Resolution**|Meiqin Liu et.al.|[2211.01639v1](http://arxiv.org/abs/2211.01639v1)|null|
 |**2022-11-01**|**BUbble Flow Field: a Simulation Framework for Evaluating Ultrasound Localization Microscopy Algorithms**|Marcelo Lerendegui et.al.|[2211.00754v1](http://arxiv.org/abs/2211.00754v1)|null|
