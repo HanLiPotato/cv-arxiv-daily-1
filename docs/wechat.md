@@ -751,7 +751,7 @@
 - 2022-11-01, **BUbble Flow Field: a Simulation Framework for Evaluating Ultrasound Localization Microscopy Algorithms**, Marcelo Lerendegui et.al., Paper: [http://arxiv.org/abs/2211.00754v1](http://arxiv.org/abs/2211.00754v1)
 - 2022-11-01, **VIINTER: View Interpolation with Implicit Neural Representations of Images**, Brandon Yushan Feng et.al., Paper: [http://arxiv.org/abs/2211.00722v1](http://arxiv.org/abs/2211.00722v1)
 - 2022-11-01, **MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model**, Junde Wu et.al., Paper: [http://arxiv.org/abs/2211.00611v1](http://arxiv.org/abs/2211.00611v1)
-- 2022-11-03, **Fine-tuned Generative Adversarial Network-based Model for Medical Images Super-Resolution**, Alireza Aghelan et.al., Paper: [http://arxiv.org/abs/2211.00577v2](http://arxiv.org/abs/2211.00577v2)
+- 2022-11-08, **Fine-tuned Generative Adversarial Network-based Model for Medical Images Super-Resolution**, Alireza Aghelan et.al., Paper: [http://arxiv.org/abs/2211.00577v3](http://arxiv.org/abs/2211.00577v3)
 - 2022-11-01, **TITAN: Bringing The Deep Image Prior to Implicit Representations**, Daniel LeJeune et.al., Paper: [http://arxiv.org/abs/2211.00219v1](http://arxiv.org/abs/2211.00219v1)
 - 2022-11-07, **Physics-Informed CNNs for Super-Resolution of Sparse Observations on Dynamical Systems**, Daniel Kelshaw et.al., Paper: [http://arxiv.org/abs/2210.17319v2](http://arxiv.org/abs/2210.17319v2)
 - 2022-10-30, **Combining Attention Module and Pixel Shuffle for License Plate Super-Resolution**, Valfride Nascimento et.al., Paper: [http://arxiv.org/abs/2210.16836v1](http://arxiv.org/abs/2210.16836v1), Code: **[https://github.com/valfride/lpr-rsr](https://github.com/valfride/lpr-rsr)**
