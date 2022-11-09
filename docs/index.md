@@ -857,6 +857,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-08**|**Resolution enhancement of one-dimensional molecular wavefunctions in plane-wave basis via quantum machine learning**|Rei Sakuma et.al.|[2211.04336v1](http://arxiv.org/abs/2211.04336v1)|null|
+|**2022-11-08**|**RRSR:Reciprocal Reference-based Image Super-Resolution with Progressive Feature Alignment and Selection**|Lin Zhang et.al.|[2211.04203v1](http://arxiv.org/abs/2211.04203v1)|null|
+|**2022-11-08**|**ReLoc: A Restoration-Assisted Framework for Robust Image Tampering Localization**|Peiyu Zhuang et.al.|[2211.03930v1](http://arxiv.org/abs/2211.03930v1)|**[link](https://github.com/zhuangpeiyu/reloc)**|
 |**2022-11-07**|**Underwater Images Super-Resolution Using Generative Adversarial Network-based Model**|Alireza Aghelan et.al.|[2211.03550v1](http://arxiv.org/abs/2211.03550v1)|null|
 |**2022-11-06**|**Measurement-Consistent Networks via a Deep Implicit Layer for Solving Inverse Problems**|Rahul Mourya et.al.|[2211.03177v1](http://arxiv.org/abs/2211.03177v1)|null|
 |**2022-11-05**|**Mixture-Net: Low-Rank Deep Image Prior Inspired by Mixture Models for Spectral Image Recovery**|Tatiana Gelvez-Barrera et.al.|[2211.02973v1](http://arxiv.org/abs/2211.02973v1)|null|
