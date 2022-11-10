@@ -742,6 +742,8 @@
 
 ## SR
 
+- 2022-11-09, **The Best of Both Worlds: a Framework for Combining Degradation Prediction with High Performance Super-Resolution Networks**, Matthew Aquilina et.al., Paper: [http://arxiv.org/abs/2211.05018v1](http://arxiv.org/abs/2211.05018v1), Code: **[https://github.com/um-dsrg/rumpy](https://github.com/um-dsrg/rumpy)**
+- 2022-11-08, **Deblending Galaxies with Generative Adversarial Networks**, Shoubaneh Hemmati et.al., Paper: [http://arxiv.org/abs/2211.04488v1](http://arxiv.org/abs/2211.04488v1)
 - 2022-11-08, **Resolution enhancement of one-dimensional molecular wavefunctions in plane-wave basis via quantum machine learning**, Rei Sakuma et.al., Paper: [http://arxiv.org/abs/2211.04336v1](http://arxiv.org/abs/2211.04336v1)
 - 2022-11-08, **RRSR:Reciprocal Reference-based Image Super-Resolution with Progressive Feature Alignment and Selection**, Lin Zhang et.al., Paper: [http://arxiv.org/abs/2211.04203v1](http://arxiv.org/abs/2211.04203v1)
 - 2022-11-08, **ReLoc: A Restoration-Assisted Framework for Robust Image Tampering Localization**, Peiyu Zhuang et.al., Paper: [http://arxiv.org/abs/2211.03930v1](http://arxiv.org/abs/2211.03930v1), Code: **[https://github.com/zhuangpeiyu/reloc](https://github.com/zhuangpeiyu/reloc)**
@@ -793,6 +795,7 @@
 
 ## Image Hiding
 
+- 2022-11-09, **Errorless Robust JPEG Steganography using Outputs of JPEG Coders**, Jan Butora et.al., Paper: [http://arxiv.org/abs/2211.04750v1](http://arxiv.org/abs/2211.04750v1)
 - 2022-10-24, **Perfectly Secure Steganography Using Minimum Entropy Coupling**, Christian Schroeder de Witt et.al., Paper: [http://arxiv.org/abs/2210.14889v1](http://arxiv.org/abs/2210.14889v1), Code: **[https://github.com/schroederdewitt/perfectly-secure-steganography](https://github.com/schroederdewitt/perfectly-secure-steganography)**
 - 2022-10-26, **Cover Reproducible Steganography via Deep Generative Models**, Kejiang Chen et.al., Paper: [http://arxiv.org/abs/2210.14632v1](http://arxiv.org/abs/2210.14632v1)
 - 2022-09-26, **FastStamp: Accelerating Neural Steganography and Digital Watermarking of Images on FPGAs**, Shehzeen Hussain et.al., Paper: [http://arxiv.org/abs/2209.12391v1](http://arxiv.org/abs/2209.12391v1)
