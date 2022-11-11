@@ -742,6 +742,9 @@
 
 ## SR
 
+- 2022-11-10, **ClassPruning: Speed Up Image Restoration Networks by Dynamic N:M Pruning**, Yang Zhou et.al., Paper: [http://arxiv.org/abs/2211.05488v1](http://arxiv.org/abs/2211.05488v1)
+- 2022-11-10, **SRNR: Training neural networks for Super-Resolution MRI using Noisy high-resolution Reference data**, Jiaxin Xiao et.al., Paper: [http://arxiv.org/abs/2211.05360v1](http://arxiv.org/abs/2211.05360v1)
+- 2022-11-07, **Power Efficient Video Super-Resolution on Mobile NPUs with Deep Learning, Mobile AI & AIM 2022 challenge: Report**, Andrey Ignatov et.al., Paper: [http://arxiv.org/abs/2211.05256v1](http://arxiv.org/abs/2211.05256v1)
 - 2022-11-09, **The Best of Both Worlds: a Framework for Combining Degradation Prediction with High Performance Super-Resolution Networks**, Matthew Aquilina et.al., Paper: [http://arxiv.org/abs/2211.05018v1](http://arxiv.org/abs/2211.05018v1)
 - 2022-11-08, **Deblending Galaxies with Generative Adversarial Networks**, Shoubaneh Hemmati et.al., Paper: [http://arxiv.org/abs/2211.04488v1](http://arxiv.org/abs/2211.04488v1)
 - 2022-11-08, **Resolution enhancement of one-dimensional molecular wavefunctions in plane-wave basis via quantum machine learning**, Rei Sakuma et.al., Paper: [http://arxiv.org/abs/2211.04336v1](http://arxiv.org/abs/2211.04336v1)
@@ -795,6 +798,7 @@
 
 ## Image Hiding
 
+- 2022-11-09, **Side-Informed Steganography for JPEG Images by Modeling Decompressed Images**, Jan Butora et.al., Paper: [http://arxiv.org/abs/2211.05530v1](http://arxiv.org/abs/2211.05530v1)
 - 2022-11-09, **Errorless Robust JPEG Steganography using Outputs of JPEG Coders**, Jan Butora et.al., Paper: [http://arxiv.org/abs/2211.04750v1](http://arxiv.org/abs/2211.04750v1)
 - 2022-10-24, **Perfectly Secure Steganography Using Minimum Entropy Coupling**, Christian Schroeder de Witt et.al., Paper: [http://arxiv.org/abs/2210.14889v1](http://arxiv.org/abs/2210.14889v1), Code: **[https://github.com/schroederdewitt/perfectly-secure-steganography](https://github.com/schroederdewitt/perfectly-secure-steganography)**
 - 2022-10-26, **Cover Reproducible Steganography via Deep Generative Models**, Kejiang Chen et.al., Paper: [http://arxiv.org/abs/2210.14632v1](http://arxiv.org/abs/2210.14632v1)
