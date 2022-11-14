@@ -853,6 +853,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-11**|**A Comprehensive Survey of Transformers for Computer Vision**|Sonain Jamil et.al.|[2211.06004v1](http://arxiv.org/abs/2211.06004v1)|null|
+|**2022-11-07**|**Efficient and Accurate Quantized Image Super-Resolution on Mobile NPUs, Mobile AI & AIM 2022 challenge: Report**|Andrey Ignatov et.al.|[2211.05910v1](http://arxiv.org/abs/2211.05910v1)|null|
 |**2022-11-10**|**ClassPruning: Speed Up Image Restoration Networks by Dynamic N:M Pruning**|Yang Zhou et.al.|[2211.05488v1](http://arxiv.org/abs/2211.05488v1)|null|
 |**2022-11-10**|**SRNR: Training neural networks for Super-Resolution MRI using Noisy high-resolution Reference data**|Jiaxin Xiao et.al.|[2211.05360v1](http://arxiv.org/abs/2211.05360v1)|null|
 |**2022-11-07**|**Power Efficient Video Super-Resolution on Mobile NPUs with Deep Learning, Mobile AI & AIM 2022 challenge: Report**|Andrey Ignatov et.al.|[2211.05256v1](http://arxiv.org/abs/2211.05256v1)|null|
