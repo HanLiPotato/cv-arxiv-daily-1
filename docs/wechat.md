@@ -742,6 +742,13 @@
 
 ## SR
 
+- 2022-11-10, **Contrastive Learning for Climate Model Bias Correction and Super-Resolution**, Tristan Ballard et.al., Paper: [http://arxiv.org/abs/2211.07555v1](http://arxiv.org/abs/2211.07555v1)
+- 2022-11-14, **Self-Supervised Image Restoration with Blurry and Noisy Pairs**, Zhilu Zhang et.al., Paper: [http://arxiv.org/abs/2211.07317v1](http://arxiv.org/abs/2211.07317v1), Code: **[https://github.com/cszhilu1998/selfir](https://github.com/cszhilu1998/selfir)**
+- 2022-11-14, **MedleyVox: An Evaluation Dataset for Multiple Singing Voices Separation**, Chang-Bin Jeon et.al., Paper: [http://arxiv.org/abs/2211.07302v1](http://arxiv.org/abs/2211.07302v1), Code: **[https://github.com/jeonchangbin49/medleyvox](https://github.com/jeonchangbin49/medleyvox)**
+- 2022-11-14, **CurvPnP: Plug-and-play Blind Image Restoration with Deep Curvature Denoiser**, Yutong Li et.al., Paper: [http://arxiv.org/abs/2211.07286v1](http://arxiv.org/abs/2211.07286v1), Code: **[https://github.com/duanlab123/curvpnp](https://github.com/duanlab123/curvpnp)**
+- 2022-11-13, **Two-dimensional gridless super-resolution method for ISAR imaging**, Mohammad Roueinfar et.al., Paper: [http://arxiv.org/abs/2211.06958v1](http://arxiv.org/abs/2211.06958v1)
+- 2022-11-13, **Compound Super-oscillation Lens for Reflective Confocal Imaging**, Pengcheng Zheng et.al., Paper: [http://arxiv.org/abs/2211.06806v1](http://arxiv.org/abs/2211.06806v1)
+- 2022-11-12, **DriftRec: Adapting diffusion models to blind image restoration tasks**, Simon Welker et.al., Paper: [http://arxiv.org/abs/2211.06757v1](http://arxiv.org/abs/2211.06757v1)
 - 2022-11-11, **A Comprehensive Survey of Transformers for Computer Vision**, Sonain Jamil et.al., Paper: [http://arxiv.org/abs/2211.06004v1](http://arxiv.org/abs/2211.06004v1)
 - 2022-11-07, **Efficient and Accurate Quantized Image Super-Resolution on Mobile NPUs, Mobile AI & AIM 2022 challenge: Report**, Andrey Ignatov et.al., Paper: [http://arxiv.org/abs/2211.05910v1](http://arxiv.org/abs/2211.05910v1)
 - 2022-11-10, **ClassPruning: Speed Up Image Restoration Networks by Dynamic N:M Pruning**, Yang Zhou et.al., Paper: [http://arxiv.org/abs/2211.05488v1](http://arxiv.org/abs/2211.05488v1)
@@ -800,6 +807,7 @@
 
 ## Image Hiding
 
+- 2022-11-12, **Addressing Segmentation Ambiguity in Neural Linguistic Steganography**, Jumon Nozaki et.al., Paper: [http://arxiv.org/abs/2211.06662v1](http://arxiv.org/abs/2211.06662v1), Code: **[https://github.com/jumon/himitsu](https://github.com/jumon/himitsu)**
 - 2022-11-09, **Side-Informed Steganography for JPEG Images by Modeling Decompressed Images**, Jan Butora et.al., Paper: [http://arxiv.org/abs/2211.05530v1](http://arxiv.org/abs/2211.05530v1)
 - 2022-11-09, **Errorless Robust JPEG Steganography using Outputs of JPEG Coders**, Jan Butora et.al., Paper: [http://arxiv.org/abs/2211.04750v1](http://arxiv.org/abs/2211.04750v1)
 - 2022-10-24, **Perfectly Secure Steganography Using Minimum Entropy Coupling**, Christian Schroeder de Witt et.al., Paper: [http://arxiv.org/abs/2210.14889v1](http://arxiv.org/abs/2210.14889v1), Code: **[https://github.com/schroederdewitt/perfectly-secure-steganography](https://github.com/schroederdewitt/perfectly-secure-steganography)**
