@@ -857,6 +857,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-15**|**Cross-Stitched Multi-task Dual Recursive Networks for Unified Single Image Deraining and Desnowing**|Sotiris Karavarsamis et.al.|[2211.08290v1](http://arxiv.org/abs/2211.08290v1)|null|
+|**2022-11-15**|**Autoencoding Galaxy Spectra I: Architecture**|Peter Melchior et.al.|[2211.07890v1](http://arxiv.org/abs/2211.07890v1)|null|
 |**2022-11-10**|**Contrastive Learning for Climate Model Bias Correction and Super-Resolution**|Tristan Ballard et.al.|[2211.07555v1](http://arxiv.org/abs/2211.07555v1)|null|
 |**2022-11-14**|**Self-Supervised Image Restoration with Blurry and Noisy Pairs**|Zhilu Zhang et.al.|[2211.07317v1](http://arxiv.org/abs/2211.07317v1)|**[link](https://github.com/cszhilu1998/selfir)**|
 |**2022-11-14**|**MedleyVox: An Evaluation Dataset for Multiple Singing Voices Separation**|Chang-Bin Jeon et.al.|[2211.07302v1](http://arxiv.org/abs/2211.07302v1)|**[link](https://github.com/jeonchangbin49/medleyvox)**|
