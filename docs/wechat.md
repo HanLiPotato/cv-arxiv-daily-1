@@ -742,8 +742,11 @@
 
 ## SR
 
+- 2022-11-16, **SATVSR: Scenario Adaptive Transformer for Cross Scenarios Video Super-Resolution**, Yongjie Chen et.al., Paper: [http://arxiv.org/abs/2211.08703v1](http://arxiv.org/abs/2211.08703v1)
+- 2022-11-16, **Consistent Direct Time-of-Flight Video Depth Super-Resolution**, Zhanghao Sun et.al., Paper: [http://arxiv.org/abs/2211.08658v1](http://arxiv.org/abs/2211.08658v1)
+- 2022-11-15, **CaDM: Codec-aware Diffusion Modeling for Neural-enhanced Video Streaming**, Qihua Zhou et.al., Paper: [http://arxiv.org/abs/2211.08428v1](http://arxiv.org/abs/2211.08428v1)
 - 2022-11-15, **Cross-Stitched Multi-task Dual Recursive Networks for Unified Single Image Deraining and Desnowing**, Sotiris Karavarsamis et.al., Paper: [http://arxiv.org/abs/2211.08290v1](http://arxiv.org/abs/2211.08290v1)
-- 2022-11-15, **Autoencoding Galaxy Spectra I: Architecture**, Peter Melchior et.al., Paper: [http://arxiv.org/abs/2211.07890v1](http://arxiv.org/abs/2211.07890v1)
+- 2022-11-15, **Autoencoding Galaxy Spectra I: Architecture**, Peter Melchior et.al., Paper: [http://arxiv.org/abs/2211.07890v1](http://arxiv.org/abs/2211.07890v1), Code: **[https://github.com/pmelchior/spender](https://github.com/pmelchior/spender)**
 - 2022-11-10, **Contrastive Learning for Climate Model Bias Correction and Super-Resolution**, Tristan Ballard et.al., Paper: [http://arxiv.org/abs/2211.07555v1](http://arxiv.org/abs/2211.07555v1)
 - 2022-11-14, **Self-Supervised Image Restoration with Blurry and Noisy Pairs**, Zhilu Zhang et.al., Paper: [http://arxiv.org/abs/2211.07317v1](http://arxiv.org/abs/2211.07317v1), Code: **[https://github.com/cszhilu1998/selfir](https://github.com/cszhilu1998/selfir)**
 - 2022-11-14, **MedleyVox: An Evaluation Dataset for Multiple Singing Voices Separation**, Chang-Bin Jeon et.al., Paper: [http://arxiv.org/abs/2211.07302v1](http://arxiv.org/abs/2211.07302v1), Code: **[https://github.com/jeonchangbin49/medleyvox](https://github.com/jeonchangbin49/medleyvox)**
@@ -809,6 +812,7 @@
 
 ## Image Hiding
 
+- 2022-11-16, **An Efficient Light-weight LSB steganography with Deep learning Steganalysis**, Dipnarayan Das et.al., Paper: [http://arxiv.org/abs/2211.08680v1](http://arxiv.org/abs/2211.08680v1)
 - 2022-11-12, **Addressing Segmentation Ambiguity in Neural Linguistic Steganography**, Jumon Nozaki et.al., Paper: [http://arxiv.org/abs/2211.06662v1](http://arxiv.org/abs/2211.06662v1), Code: **[https://github.com/jumon/himitsu](https://github.com/jumon/himitsu)**
 - 2022-11-09, **Side-Informed Steganography for JPEG Images by Modeling Decompressed Images**, Jan Butora et.al., Paper: [http://arxiv.org/abs/2211.05530v1](http://arxiv.org/abs/2211.05530v1)
 - 2022-11-09, **Errorless Robust JPEG Steganography using Outputs of JPEG Coders**, Jan Butora et.al., Paper: [http://arxiv.org/abs/2211.04750v1](http://arxiv.org/abs/2211.04750v1)
