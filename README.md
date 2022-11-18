@@ -853,6 +853,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|null|
+|**2022-11-17**|**RDRN: Recursively Defined Residual Network for Image Super-Resolution**|Alexander Panaetov et.al.|[2211.09462v1](http://arxiv.org/abs/2211.09462v1)|null|
+|**2022-11-17**|**Hard Exudate Segmentation Supplemented by Super-Resolution with Multi-scale Attention Fusion Module**|Jiayi Zhang et.al.|[2211.09404v1](http://arxiv.org/abs/2211.09404v1)|null|
 |**2022-11-16**|**SATVSR: Scenario Adaptive Transformer for Cross Scenarios Video Super-Resolution**|Yongjie Chen et.al.|[2211.08703v1](http://arxiv.org/abs/2211.08703v1)|null|
 |**2022-11-16**|**Consistent Direct Time-of-Flight Video Depth Super-Resolution**|Zhanghao Sun et.al.|[2211.08658v1](http://arxiv.org/abs/2211.08658v1)|null|
 |**2022-11-15**|**CaDM: Codec-aware Diffusion Modeling for Neural-enhanced Video Streaming**|Qihua Zhou et.al.|[2211.08428v1](http://arxiv.org/abs/2211.08428v1)|null|
@@ -925,6 +928,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-17**|**Color Image steganography using Deep convolutional Autoencoders based on ResNet architecture**|Seyed Hesam Odin Hashemi et.al.|[2211.09409v1](http://arxiv.org/abs/2211.09409v1)|null|
 |**2022-11-16**|**An Efficient Light-weight LSB steganography with Deep learning Steganalysis**|Dipnarayan Das et.al.|[2211.08680v1](http://arxiv.org/abs/2211.08680v1)|null|
 |**2022-11-12**|**Addressing Segmentation Ambiguity in Neural Linguistic Steganography**|Jumon Nozaki et.al.|[2211.06662v1](http://arxiv.org/abs/2211.06662v1)|**[link](https://github.com/jumon/himitsu)**|
 |**2022-11-09**|**Side-Informed Steganography for JPEG Images by Modeling Decompressed Images**|Jan Butora et.al.|[2211.05530v1](http://arxiv.org/abs/2211.05530v1)|null|
