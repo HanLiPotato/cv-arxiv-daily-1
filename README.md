@@ -853,6 +853,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-28**|**Separation-Free Spectral Super-Resolution via Convex Optimization**|Zai Yang et.al.|[2211.15361v1](http://arxiv.org/abs/2211.15361v1)|null|
+|**2022-11-28**|**Meet-in-the-middle: Multi-scale upsampling and matching \\ for cross-resolution face recognition**|Klemen Grm et.al.|[2211.15225v1](http://arxiv.org/abs/2211.15225v1)|null|
+|**2022-11-28**|**What's Behind the Mask: Estimating Uncertainty in Image-to-Image Problems**|Gilad Kutiel et.al.|[2211.15211v1](http://arxiv.org/abs/2211.15211v1)|null|
+|**2022-11-28**|**A mathematical theory of super-resolution and diffraction limit**|Ping Liu et.al.|[2211.15208v1](http://arxiv.org/abs/2211.15208v1)|null|
+|**2022-11-28**|**Synthetic Low-Field MRI Super-Resolution Via Nested U-Net Architecture**|Aryan Kalluvila et.al.|[2211.15047v1](http://arxiv.org/abs/2211.15047v1)|null|
+|**2022-11-28**|**Point singularity array with metasurfaces**|Soon Wei Daniel Lim et.al.|[2211.15012v1](http://arxiv.org/abs/2211.15012v1)|null|
+|**2022-11-28**|**Near-filed SAR Image Restoration with Deep Learning Inverse Technique: A Preliminary Study**|Xu Zhan et.al.|[2211.14990v1](http://arxiv.org/abs/2211.14990v1)|null|
+|**2022-11-27**|**A Knowledge-based Learning Framework for Self-supervised Pre-training Towards Enhanced Recognition of Medical Images**|Wei Chen et.al.|[2211.14715v1](http://arxiv.org/abs/2211.14715v1)|**[link](https://github.com/lichen14/tower)**|
 |**2022-11-25**|**CHIMLE: Conditional Hierarchical IMLE for Multimodal Conditional Image Synthesis**|Shichong Peng et.al.|[2211.14286v1](http://arxiv.org/abs/2211.14286v1)|null|
 |**2022-11-25**|**Domain generalization in fetal brain MRI segmentation \\with multi-reconstruction augmentation**|Priscille de Dumast et.al.|[2211.14282v1](http://arxiv.org/abs/2211.14282v1)|null|
 |**2022-11-25**|**Simulation-based parameter optimization for fetal brain MRI super-resolution reconstruction**|Priscille de Dumast et.al.|[2211.14274v1](http://arxiv.org/abs/2211.14274v1)|null|
