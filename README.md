@@ -854,7 +854,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2022-11-28**|**Separation-Free Spectral Super-Resolution via Convex Optimization**|Zai Yang et.al.|[2211.15361v1](http://arxiv.org/abs/2211.15361v1)|null|
-|**2022-11-28**|**Meet-in-the-middle: Multi-scale upsampling and matching \\ for cross-resolution face recognition**|Klemen Grm et.al.|[2211.15225v1](http://arxiv.org/abs/2211.15225v1)|null|
+|**2022-11-29**|**Meet-in-the-middle: Multi-scale upsampling and matching for cross-resolution face recognition**|Klemen Grm et.al.|[2211.15225v2](http://arxiv.org/abs/2211.15225v2)|null|
 |**2022-11-28**|**What's Behind the Mask: Estimating Uncertainty in Image-to-Image Problems**|Gilad Kutiel et.al.|[2211.15211v1](http://arxiv.org/abs/2211.15211v1)|null|
 |**2022-11-28**|**A mathematical theory of super-resolution and diffraction limit**|Ping Liu et.al.|[2211.15208v1](http://arxiv.org/abs/2211.15208v1)|null|
 |**2022-11-28**|**Synthetic Low-Field MRI Super-Resolution Via Nested U-Net Architecture**|Aryan Kalluvila et.al.|[2211.15047v1](http://arxiv.org/abs/2211.15047v1)|null|
