@@ -853,6 +853,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-29**|**Feature-based Adaptive Contrastive Distillation for Efficient Single Image Super-Resolution**|HyeonCheol Moon et.al.|[2211.15951v1](http://arxiv.org/abs/2211.15951v1)|null|
+|**2022-11-29**|**Energy-looping and photon-avalanche-like phenomena in NdxY1.00-xAl3(BO3)4 powders excited at 1064 nm**|Rodrigo F. da Silva et.al.|[2211.15854v1](http://arxiv.org/abs/2211.15854v1)|null|
 |**2022-11-28**|**Separation-Free Spectral Super-Resolution via Convex Optimization**|Zai Yang et.al.|[2211.15361v1](http://arxiv.org/abs/2211.15361v1)|null|
 |**2022-11-29**|**Meet-in-the-middle: Multi-scale upsampling and matching for cross-resolution face recognition**|Klemen Grm et.al.|[2211.15225v2](http://arxiv.org/abs/2211.15225v2)|null|
 |**2022-11-28**|**What's Behind the Mask: Estimating Uncertainty in Image-to-Image Problems**|Gilad Kutiel et.al.|[2211.15211v1](http://arxiv.org/abs/2211.15211v1)|null|
