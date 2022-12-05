@@ -742,6 +742,8 @@
 
 ## SR
 
+- 2022-12-02, **Global Learnable Attention for Single Image Super-Resolution**, Jian-Nan Su et.al., Paper: [http://arxiv.org/abs/2212.01057v1](http://arxiv.org/abs/2212.01057v1), Code: **[https://github.com/laoyangui/dlsn](https://github.com/laoyangui/dlsn)**
+- 2022-12-02, **QC-StyleGAN -- Quality Controllable Image Generation and Manipulation**, Dat Viet Thanh Nguyen et.al., Paper: [http://arxiv.org/abs/2212.00981v1](http://arxiv.org/abs/2212.00981v1)
 - 2022-12-01, **Super-resolution of positive near-colliding point sources**, Ping Liu et.al., Paper: [http://arxiv.org/abs/2212.00536v1](http://arxiv.org/abs/2212.00536v1)
 - 2022-12-01, **Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model**, Yinhuai Wang et.al., Paper: [http://arxiv.org/abs/2212.00490v1](http://arxiv.org/abs/2212.00490v1), Code: **[https://github.com/wyhuai/ddnm](https://github.com/wyhuai/ddnm)**
 - 2022-11-30, **MrSARP: A Hierarchical Deep Generative Prior for SAR Image Super-resolution**, Tushar Agarwal et.al., Paper: [http://arxiv.org/abs/2212.00069v1](http://arxiv.org/abs/2212.00069v1)
