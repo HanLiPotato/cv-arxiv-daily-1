@@ -742,6 +742,12 @@
 
 ## SR
 
+- 2022-12-05, **Rethinking Generative Methods for Image Restoration in Physics-based Vision: A Theoretical Analysis from the Perspective of Information**, Xudong Kang et.al., Paper: [http://arxiv.org/abs/2212.02198v1](http://arxiv.org/abs/2212.02198v1)
+- 2022-12-05, **Region-Conditioned Orthogonal 3D U-Net for Weather4Cast Competition**, Taehyeon Kim et.al., Paper: [http://arxiv.org/abs/2212.02059v1](http://arxiv.org/abs/2212.02059v1)
+- 2022-12-05, **Double U-Net for Super-Resolution and Segmentation of Live Cell Images**, Mayur Bhandary et.al., Paper: [http://arxiv.org/abs/2212.02028v1](http://arxiv.org/abs/2212.02028v1)
+- 2022-12-03, **Bridging Component Learning with Degradation Modelling for Blind Image Super-Resolution**, Yixuan Wu et.al., Paper: [http://arxiv.org/abs/2212.01628v1](http://arxiv.org/abs/2212.01628v1)
+- 2022-12-03, **Learning Detail-Structure Alternative Optimization for Blind Super-Resolution**, Feng Li et.al., Paper: [http://arxiv.org/abs/2212.01624v1](http://arxiv.org/abs/2212.01624v1), Code: **[https://github.com/arcananana/dssr](https://github.com/arcananana/dssr)**
+- 2022-12-02, **Downscaling Extreme Rainfall Using Physical-Statistical Generative Adversarial Learning**, Anamitra Saha et.al., Paper: [http://arxiv.org/abs/2212.01446v1](http://arxiv.org/abs/2212.01446v1)
 - 2022-12-02, **Global Learnable Attention for Single Image Super-Resolution**, Jian-Nan Su et.al., Paper: [http://arxiv.org/abs/2212.01057v1](http://arxiv.org/abs/2212.01057v1), Code: **[https://github.com/laoyangui/dlsn](https://github.com/laoyangui/dlsn)**
 - 2022-12-02, **QC-StyleGAN -- Quality Controllable Image Generation and Manipulation**, Dat Viet Thanh Nguyen et.al., Paper: [http://arxiv.org/abs/2212.00981v1](http://arxiv.org/abs/2212.00981v1)
 - 2022-12-01, **Super-resolution of positive near-colliding point sources**, Ping Liu et.al., Paper: [http://arxiv.org/abs/2212.00536v1](http://arxiv.org/abs/2212.00536v1)
